@@ -1,4 +1,4 @@
-<img width="468" height="135" alt="image" src="https://github.com/user-attachments/assets/4a5f983f-2952-4443-ab85-939c0dd6ffba" /># Sentimen-analisis-Tokopedia-Menggunakan-CNN
+# Sentimen-analisis-Tokopedia-Menggunakan-CNN
 Penelitian  ini  bertujuan menerapkan  Algoritma CNN untuk  menganalisis  sentimen  ulasan pengguna Tokopedia guna  menganalisis  sentimen  pengguna agar  terus  konsisten  memberikan  layanan  terbaik  atau  meningkatkan  layanan  perusahaan berdasarkan data ulasan pengguna
 
 # Abstrak 
