@@ -6,10 +6,15 @@ Pandemi Covid-19 yang melanda pada tahun 2020 mempercepat transformasi digital d
 
 # Metode Penelitian
 > Text Mining
+
 > Data Pre Processing
+
 > Labelling Data
+
 > Split dataset
+
 > Modelling
+
 > Evaluasi Model
 
 Link Journal : https://ejurnal.seminar-id.com/index.php/bits/article/view/6923/3574
